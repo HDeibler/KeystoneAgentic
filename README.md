@@ -69,7 +69,7 @@ Build intelligent document repositories with RAG (Retrieval-Augmented Generation
 - [**Overview**](/docs/knowledge-base/documents/upload/index) - Getting started with document uploads
 - [**Getting Started**](/docs/knowledge-base/documents/upload/getting-started) - Your first document upload
 - [**Supported Formats**](/docs/knowledge-base/documents/upload/formats) - File types and compatibility
-- [**Size Limits**](/docs/knowledge-base/documents/upload/size-limits) - Upload constraints
+- [**Size Limits**](/docs/knowledge-base/documents/size-limits) - Upload constraints
 - [**Processing Workflow**](/docs/knowledge-base/documents/upload/processing-workflow) - What happens after upload
 - [**Best Practices**](/docs/knowledge-base/documents/upload/best-practices) - Tips for optimal results
 - [**Troubleshooting**](/docs/knowledge-base/documents/upload/troubleshooting) - Common issues and solutions
