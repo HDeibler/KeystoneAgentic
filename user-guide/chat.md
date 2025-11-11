@@ -1,5 +1,7 @@
 # Chat: Conversations with AI
 
+[← Back to Main Documentation](../README.md)
+
 The Chat interface is where you interact with AI models, ask questions, get assistance, and leverage your organization's knowledge base through RAG.
 
 ---
@@ -243,7 +245,7 @@ per month..."
 - AI shows which documents were referenced
 - Cross-reference critical facts
 
-[Learn more about RAG →](/docs/knowledge-base/rag-overview)
+[Learn more about RAG →](../knowledge-base/rag-overview.md)
 
 ---
 
@@ -303,7 +305,7 @@ a 2-week delay, maintaining positive tone, offering solution"
 Now generate one for [your product]"
 ```
 
-[Learn more about effective prompting →](/docs/ai-models/understanding-llms#writing-effective-prompts)
+[Learn more about effective prompting →](../ai-models/understanding-llms.md#writing-effective-prompts)
 
 ---
 
@@ -359,7 +361,7 @@ Planned features:
 - Good at summarization
 - RAG-compatible
 
-[Learn more about choosing models →](/docs/ai-models/understanding-llms#choosing-the-right-model)
+[Learn more about choosing models →](../ai-models/understanding-llms.md#choosing-the-right-model)
 
 ---
 
@@ -544,10 +546,10 @@ Planned features:
 
 ## Related Documentation
 
-- **[Understanding LLMs](/docs/ai-models/understanding-llms)** - Learn about tokens, context windows, and model capabilities
-- **[Model Discovery](/docs/ai-models/model-discovery)** - Find and sync the right models
-- **[RAG Overview](/docs/knowledge-base/rag-overview)** - Enhance responses with your documents
-- **[Document Management](/docs/knowledge-base/document-management)** - Upload and organize knowledge base
+- **[Understanding LLMs](../ai-models/understanding-llms.md)** - Learn about tokens, context windows, and model capabilities
+- **[Model Discovery](../ai-models/model-discovery.md)** - Find and sync the right models
+- **[RAG Overview](../knowledge-base/rag-overview.md)** - Enhance responses with your documents
+- **[Document Management](../knowledge-base/document-management.md)** - Upload and organize knowledge base
 
 ---
 
@@ -565,3 +567,5 @@ Email support@keystoneagentic.com
 ---
 
 **Chat with confidence. Get accurate, document-grounded responses.**
+
+[← Back to Main Documentation](../README.md)

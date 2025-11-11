@@ -1,5 +1,7 @@
 # Model Discovery
 
+[← Back to Main Documentation](../README.md)
+
 The Model Discovery page is where you browse, filter, and sync AI models to your organization. This guide shows you how to find the perfect models for your needs.
 
 ---
@@ -195,7 +197,7 @@ Models aren't ranked within KeystoneAgentic—instead, use external leaderboards
 - What's "best" depends on your specific use case
 - Leaderboards are updated in real-time as models improve
 
-[Learn more about using leaderboards](/docs/ai-models/understanding-llms#finding-the-best-models)
+[Learn more about using leaderboards](understanding-llms.md#finding-the-best-models)
 
 ---
 
@@ -222,7 +224,7 @@ Models aren't ranked within KeystoneAgentic—instead, use external leaderboards
 - **Members**: Yes
 - **Viewers**: No (read-only access)
 
-[See role permissions](/docs/organization/roles-permissions)
+[See role permissions](../organization/roles-permissions.md)
 
 ---
 
@@ -386,11 +388,13 @@ Why different sizes matter:
 
 ## Next Steps
 
-- **[Sync Your First Model](/docs/ai-models/model-discovery#syncing-models)** - Add a model to your organization
-- **[Manage Synced Models](/docs/ai-models/model-management)** - Activate, deactivate, and configure models
-- **[Understanding LLMs](/docs/ai-models/understanding-llms)** - Learn about tokens, context windows, and capabilities
+- **[Sync Your First Model](model-discovery.md#syncing-models)** - Add a model to your organization
+- **[Manage Synced Models](model-management.md)** - Activate, deactivate, and configure models
+- **[Understanding LLMs](understanding-llms.md)** - Learn about tokens, context windows, and capabilities
 - **[Chat Parameters (Coming Soon)** - Control temperature and other settings
 
 ---
 
 **Explore, experiment, and find the perfect models for your needs.**
+
+[← Back to Main Documentation](../README.md)

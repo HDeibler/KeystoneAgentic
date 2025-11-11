@@ -1,5 +1,7 @@
 # Understanding Large Language Models (LLMs)
 
+[← Back to Main Documentation](../README.md)
+
 This guide explains the fundamentals of AI language models, helping you choose the right model and use it effectively.
 
 ---
@@ -584,7 +586,7 @@ Models can experience downtime or degraded performance. KeystoneAgentic shows:
 - Providers do not use your data for training
 - Your conversations are immediately discarded after processing
 
-[Learn more about Zero Data Retention](/docs/security/zero-data-retention)
+[Learn more about Zero Data Retention](../security/zero-data-retention.md)
 
 ---
 
@@ -616,10 +618,10 @@ Models can experience downtime or degraded performance. KeystoneAgentic shows:
 
 ## Next Steps
 
-- **[Model Discovery](/docs/ai-models/model-discovery)** - Browse and filter available models
-- **[Model Management](/docs/ai-models/model-management)** - Sync, activate, and configure models
+- **[Model Discovery](model-discovery.md)** - Browse and filter available models
+- **[Model Management](model-management.md)** - Sync, activate, and configure models
 - **[Chat Parameters (Coming Soon)** - Control temperature, tokens, and more
-- **[Zero Data Retention](/docs/security/zero-data-retention)** - Understand data privacy
+- **[Zero Data Retention](../security/zero-data-retention.md)** - Understand data privacy
 
 ---
 
@@ -637,3 +639,5 @@ Models can experience downtime or degraded performance. KeystoneAgentic shows:
 - [Papers with Code Leaderboards](https://paperswithcode.com/sota)
 
 Understanding LLMs empowers you to choose the right tool for every task—and adapt as the field evolves.
+
+[← Back to Main Documentation](../README.md)

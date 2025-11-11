@@ -1,5 +1,7 @@
 # Managing Team Members
 
+[← Back to Main Documentation](../README.md)
+
 Collaborate effectively by inviting team members, assigning roles, and managing access. This comprehensive guide covers everything you need to know about team management in KeystoneAgentic.
 
 ---
@@ -163,7 +165,7 @@ Only Admins can invite new members. Members and Viewers see the team list but ca
 
 **Best practice:** Start with the minimum role needed. You can always promote later.
 
-[See complete permission details →](/docs/organization/roles-permissions)
+[See complete permission details →](roles-permissions.md)
 
 ---
 
@@ -636,9 +638,9 @@ No. Only other Admins can change your role.
 
 ## Related Documentation
 
-- **[User Roles & Permissions](/docs/organization/roles-permissions)** - Detailed permission matrix
-- **[Quick Start Guide](/docs/getting-started/quickstart)** - Invite your first team member
-- **[Profile Settings](/docs/user-guide/profile)** - Manage your own account
+- **[User Roles & Permissions](roles-permissions.md)** - Detailed permission matrix
+- **[Quick Start Guide](../getting-started/quickstart.md)** - Invite your first team member
+- **[Profile Settings](../user-guide/profile.md)** - Manage your own account
 
 ---
 
@@ -656,3 +658,5 @@ Email support@keystoneagentic.com
 ---
 
 **Build your team. Collaborate effectively. Manage with confidence.**
+
+[← Back to Main Documentation](../README.md)

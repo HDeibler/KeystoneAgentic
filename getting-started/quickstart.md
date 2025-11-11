@@ -1,5 +1,7 @@
 # Quick Start Guide
 
+[← Back to Main Documentation](../README.md)
+
 Get up and running with KeystoneAgentic in minutes. This guide walks you through the essential steps to start using AI-powered conversations with your team.
 
 ---
@@ -92,7 +94,7 @@ Once logged in, you'll need at least one AI model to start chatting.
 
 **Pro Tip:** Sync 2-3 models so you can compare quality and switch if one is down
 
-[Learn more about choosing models →](/docs/ai-models/model-discovery)
+[Learn more about choosing models →](../ai-models/model-discovery.md)
 
 ---
 
@@ -155,7 +157,7 @@ Give your AI access to your specific information through document upload.
 **Using documents in chat:**
 The system automatically searches your documents when questions seem relevant to uploaded content. The AI will reference your documents in its responses, providing grounded, accurate answers based on YOUR information.
 
-[Learn more about document management →](/docs/knowledge-base/document-management)
+[Learn more about document management →](../knowledge-base/document-management.md)
 
 ---
 
@@ -189,7 +191,7 @@ Share KeystoneAgentic with your colleagues.
 - Manage billing and subscription
 - Configure organization settings
 
-[Learn more about roles and permissions →](/docs/organization/roles-permissions)
+[Learn more about roles and permissions →](../organization/roles-permissions.md)
 
 ---
 
@@ -238,7 +240,7 @@ After logging in, your **Dashboard** shows:
 - 20-30 document analysis tasks, OR
 - 50 standard multi-turn conversations
 
-[Learn more about tokens →](/docs/ai-models/understanding-llms#tokens)
+[Learn more about tokens →](../ai-models/understanding-llms.md#tokens)
 
 ---
 
@@ -264,7 +266,7 @@ After logging in, your **Dashboard** shows:
 - AI "forgets" early parts of discussion
 - Start a new conversation if needed
 
-[Learn more about context windows →](/docs/ai-models/understanding-llms#context-window)
+[Learn more about context windows →](../ai-models/understanding-llms.md#context-window)
 
 ---
 
@@ -285,7 +287,7 @@ After logging in, your **Dashboard** shows:
 - AI references exact sources
 - Keep information current by updating documents
 
-[Learn more about RAG →](/docs/knowledge-base/rag-overview)
+[Learn more about RAG →](../knowledge-base/rag-overview.md)
 
 ---
 
@@ -305,7 +307,7 @@ After logging in, your **Dashboard** shows:
 - Confidential strategy discussions
 - Personal or sensitive content
 
-[Learn more about Zero Data Retention →](/docs/security/zero-data-retention)
+[Learn more about Zero Data Retention →](../security/zero-data-retention.md)
 
 ---
 
@@ -365,7 +367,7 @@ After logging in, your **Dashboard** shows:
 Show the AI what format you want by providing an example first, then asking it to generate similar content.
 ```
 
-[Learn more about effective prompting →](/docs/ai-models/understanding-llms#writing-effective-prompts)
+[Learn more about effective prompting →](../ai-models/understanding-llms.md#writing-effective-prompts)
 
 ---
 
@@ -389,7 +391,7 @@ Show the AI what format you want by providing an example first, then asking it t
 ❌ Poor: untitled.txt
 ```
 
-[Learn more about document best practices →](/docs/knowledge-base/document-management)
+[Learn more about document best practices →](../knowledge-base/document-management.md)
 
 ---
 
@@ -412,7 +414,7 @@ Show the AI what format you want by providing an example first, then asking it t
 - Test with budget models before committing to premium
 - Monitor usage to identify cost savings
 
-[Learn more about choosing models →](/docs/ai-models/understanding-llms#choosing-the-right-model)
+[Learn more about choosing models →](../ai-models/understanding-llms.md#choosing-the-right-model)
 
 ---
 
@@ -442,7 +444,7 @@ Currently, KeystoneAgentic manages model access and you pay based on token usage
 - Data encrypted in transit and at rest
 - Organization data isolation (your data never mixes with others)
 - Role-based access control
-- [Read full security documentation →](/docs/security/zero-data-retention)
+- [Read full security documentation →](../security/zero-data-retention.md)
 
 ### Can I export my conversations?
 
@@ -488,19 +490,19 @@ Conversation export features are planned for future release. Currently, conversa
 Now that you're set up, explore these areas:
 
 **For Power Users:**
-- [Understanding LLMs](/docs/ai-models/understanding-llms) - Deep dive into AI models
-- [Model Management](/docs/ai-models/model-management) - Activate, configure, and optimize models
-- [RAG Best Practices](/docs/knowledge-base/rag-overview) - Get the most from your documents
+- [Understanding LLMs](../ai-models/understanding-llms.md) - Deep dive into AI models
+- [Model Management](../ai-models/model-management.md) - Activate, configure, and optimize models
+- [RAG Best Practices](../knowledge-base/rag-overview.md) - Get the most from your documents
 
 **For Team Admins:**
-- [Role-Based Permissions](/docs/organization/roles-permissions) - Understand access control
-- [Team Management](/docs/organization/team-members) - Manage your team effectively
-- [Usage Analytics](/docs/analytics/usage-tracking) - Monitor and optimize usage
+- [Role-Based Permissions](../organization/roles-permissions.md) - Understand access control
+- [Team Management](../organization/team-members.md) - Manage your team effectively
+- [Usage Analytics](../analytics/usage-tracking.md) - Monitor and optimize usage
 
 **For All Users:**
-- [Dashboard Overview](/docs/user-guide/dashboard) - Navigate the interface
-- [Chat Features](/docs/user-guide/chat) - Master conversation tools
-- [Profile Settings](/docs/user-guide/profile) - Customize your experience
+- [Dashboard Overview](../user-guide/dashboard.md) - Navigate the interface
+- [Chat Features](../user-guide/chat.md) - Master conversation tools
+- [Profile Settings](../user-guide/profile.md) - Customize your experience
 
 ---
 
@@ -508,10 +510,12 @@ Now that you're set up, explore these areas:
 
 **Need assistance?**
 
-- **Documentation:** Browse `/docs` for detailed guides
+- **Documentation:** Browse the [Main Documentation](../README.md) for detailed guides
 - **Support Email:** support@keystoneagentic.com
 - **Feature Requests:** Share feedback through your dashboard
 
 ---
 
 **You're ready to start! Head to the [Dashboard](/dashboard) and begin your AI journey.**
+
+[← Back to Main Documentation](../README.md)

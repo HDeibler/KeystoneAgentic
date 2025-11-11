@@ -1,5 +1,7 @@
 # Dashboard Overview
 
+[← Back to Main Documentation](../README.md)
+
 The **Dashboard** is your home base in KeystoneAgentic. It provides a quick overview of your organization's status, recent activity, and shortcuts to common tasks.
 
 ---
@@ -244,7 +246,7 @@ What you see depends on your role:
 - Cannot see billing details
 - No management actions available
 
-[Learn more about roles and permissions](/docs/organization/roles-permissions)
+[Learn more about roles and permissions](../organization/roles-permissions.md)
 
 ---
 
@@ -324,7 +326,9 @@ The dashboard is responsive and works on mobile devices:
 ## Need Help?
 
 - **[Navigation Guide (Coming Soon)** - Learn to navigate KeystoneAgentic
-- **[Your Profile](/docs/user-guide/profile)** - Customize your account
+- **[Your Profile](profile.md)** - Customize your account
 - **[Organization Settings (Admin feature - Coming Soon)** - Configure your organization
 
 Questions? Contact **support@keystoneagentic.com**
+
+[← Back to Main Documentation](../README.md)

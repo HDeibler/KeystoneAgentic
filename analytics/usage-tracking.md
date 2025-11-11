@@ -1,5 +1,7 @@
 # Usage Tracking & Analytics
 
+[← Back to Main Documentation](../README.md)
+
 Monitor your organization's AI usage, track token consumption, and optimize costs with KeystoneAgentic's analytics dashboard. This guide shows you how to understand and leverage usage data.
 
 ---
@@ -33,7 +35,7 @@ Monitor your organization's AI usage, track token consumption, and optimize cost
 
 **Available to**: Admins only
 
-[Learn more about roles](/docs/organization/roles-permissions)
+[Learn more about roles](../organization/roles-permissions.md)
 
 ---
 
@@ -380,7 +382,7 @@ Future analytics features:
 - Conversation history counts toward tokens
 - RAG adds document chunks to token count
 
-**Solution**: Review token calculation in [Understanding LLMs](/docs/ai-models/understanding-llms#tokens)
+**Solution**: Review token calculation in [Understanding LLMs](../ai-models/understanding-llms.md#tokens)
 
 ---
 
@@ -449,10 +451,12 @@ Future analytics features:
 
 ## Next Steps
 
-- **[Understanding LLMs](/docs/ai-models/understanding-llms)** - Learn about tokens and costs
-- **[Model Management](/docs/ai-models/model-management)** - Optimize your model selection
+- **[Understanding LLMs](../ai-models/understanding-llms.md)** - Learn about tokens and costs
+- **[Model Management](../ai-models/model-management.md)** - Optimize your model selection
 - **[Organization Settings (Admin feature - Coming Soon)** - Manage quotas and billing
 
 ---
 
 **Track, optimize, and scale your AI usage with confidence.**
+
+[← Back to Main Documentation](../README.md)

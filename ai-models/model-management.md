@@ -1,5 +1,7 @@
 # Model Management
 
+[← Back to Main Documentation](../README.md)
+
 Once you've synced models to your organization, use the Model Management page to activate, deactivate, configure, and organize them. This guide shows you how to manage your model library.
 
 ---
@@ -66,7 +68,7 @@ Once you've synced models to your organization, use the Model Management page to
 - **Members**: Yes
 - **Viewers**: No
 
-[See role permissions](/docs/organization/roles-permissions)
+[See role permissions](../organization/roles-permissions.md)
 
 ---
 
@@ -420,11 +422,13 @@ Future capabilities:
 
 ## Next Steps
 
-- **[Understanding LLMs](/docs/ai-models/understanding-llms)** - Learn about model types and capabilities
-- **[Model Discovery](/docs/ai-models/model-discovery)** - Find and sync new models
+- **[Understanding LLMs](understanding-llms.md)** - Learn about model types and capabilities
+- **[Model Discovery](model-discovery.md)** - Find and sync new models
 - **[Chat Parameters (Coming Soon)** - Control temperature and other settings
 - **[Analytics (Coming Soon)** - Track model usage and costs
 
 ---
 
 **Effective model management ensures you always have the right tool for every task.**
+
+[← Back to Main Documentation](../README.md)

@@ -1,5 +1,7 @@
 # RAG Overview: Retrieval-Augmented Generation
 
+[← Back to Main Documentation](../README.md)
+
 RAG (Retrieval-Augmented Generation) enhances AI responses by searching your documents and grounding answers in your actual data. This guide explains how RAG works and why it's powerful.
 
 ---
@@ -89,7 +91,7 @@ RAG (Retrieval-Augmented Generation) enhances AI responses by searching your doc
 - Creates embeddings (vector representations) for each chunk
 - Indexes chunks for fast search
 
-[Learn more about document processing](/docs/knowledge-base/document-management)
+[Learn more about document processing](document-management.md)
 
 ---
 
@@ -442,16 +444,18 @@ KeystoneAgentic uses optimized defaults:
 - No training on your data
 - No logs or retention
 
-[Learn more about ZDR](/docs/security/zero-data-retention)
+[Learn more about ZDR](../security/zero-data-retention.md)
 
 ---
 
 ## Next Steps
 
-- **[Document Management](/docs/knowledge-base/document-management)** - Upload and organize your documents
+- **[Document Management](document-management.md)** - Upload and organize your documents
 - **[Using RAG in Conversations (Coming Soon)** (Coming Soon) - Enable RAG when chatting with AI
-- **[Understanding LLMs](/docs/ai-models/understanding-llms)** - Learn how AI processes context
+- **[Understanding LLMs](../ai-models/understanding-llms.md)** - Learn how AI processes context
 
 ---
 
 **RAG transforms AI from a generalist into a domain expert—your domain expert.**
+
+[← Back to Main Documentation](../README.md)
