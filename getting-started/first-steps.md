@@ -1,5 +1,7 @@
 # First Steps After Sign Up
 
+[← Back to Main Documentation](../README.md)
+
 Congratulations on creating your KeystoneAgentic account! This guide will walk you through the essential setup steps to get the most out of the platform.
 
 ---
@@ -96,7 +98,7 @@ If you're collaborating with others, invite them to your organization.
 3. Enter their information:
    - **Name**: Their full name
    - **Email**: Their work email (they'll use this to log in)
-   - **Role**: Select Admin, Member, or Viewer ([learn about roles](/docs/organization/roles-permissions))
+   - **Role**: Select Admin, Member, or Viewer ([learn about roles](../organization/roles-permissions.md))
 4. Click **Send Invite**
 
 ### What Happens Next
@@ -266,17 +268,19 @@ Use this checklist to ensure you've completed essential setup:
 
 You're all set! Here's what to learn next:
 
-- **[Understanding AI Models](/docs/ai-models/understanding-llms)** - Learn about tokens, context windows, and reasoning models
-- **[User Roles & Permissions](/docs/organization/roles-permissions)** - Understand what each role can do
-- **[Knowledge Base Guide](/docs/knowledge-base/rag-overview)** - Make the most of RAG
-- **[Dashboard Guide](/docs/user-guide/dashboard)** - Navigate the interface like a pro
+- **[Understanding AI Models](../ai-models/understanding-llms.md)** - Learn about tokens, context windows, and reasoning models
+- **[User Roles & Permissions](../organization/roles-permissions.md)** - Understand what each role can do
+- **[Knowledge Base Guide](../knowledge-base/rag-overview.md)** - Make the most of RAG
+- **[Dashboard Guide](../user-guide/dashboard.md)** - Navigate the interface like a pro
 
 ---
 
 ## Need Help?
 
 - **Email**: support@keystoneagentic.com
-- **Documentation**: [Full User Guide](/docs/user-guide/dashboard)
+- **Documentation**: [Full User Guide](../user-guide/dashboard.md)
 - **Status**: status.keystoneagentic.com
 
 Happy building! 🚀
+
+[← Back to Main Documentation](../README.md)

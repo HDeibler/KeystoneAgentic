@@ -1,5 +1,7 @@
 # Creating Your Account
 
+[← Back to Main Documentation](../README.md)
+
 Getting started with KeystoneAgentic is quick and easy. Follow this guide to create your account and set up your organization.
 
 ---
@@ -55,10 +57,10 @@ Check your inbox for a verification email (check spam folder if needed). Click t
 ### Set Up Your Organization
 You're now the **Admin** of your organization. Here's what you can do next:
 
-- **[Invite Team Members](/docs/organization/team-members)** - Add colleagues to collaborate
-- **[Discover AI Models](/docs/ai-models/model-discovery)** - Browse and sync models to your organization
-- **[Upload Documents](/docs/knowledge-base/document-management)** - Build your knowledge base
-- **[Explore the Dashboard](/docs/user-guide/dashboard)** - Learn about available features
+- **[Invite Team Members](../organization/team-members.md)** - Add colleagues to collaborate
+- **[Discover AI Models](../ai-models/model-discovery.md)** - Browse and sync models to your organization
+- **[Upload Documents](../knowledge-base/document-management.md)** - Build your knowledge base
+- **[Explore the Dashboard](../user-guide/dashboard.md)** - Learn about available features
 
 ---
 
@@ -164,17 +166,19 @@ To switch between organizations:
 
 Now that your account is created:
 
-1. **[Complete First Steps](/docs/getting-started/first-steps)** - Set up your organization
-2. **[Understand User Roles](/docs/organization/roles-permissions)** - Learn about Admin, Member, and Viewer roles
-3. **[Invite Your Team](/docs/organization/team-members)** - Add colleagues to your organization
-4. **[Browse AI Models](/docs/ai-models/model-discovery)** - Discover and sync models
+1. **[Complete First Steps](first-steps.md)** - Set up your organization
+2. **[Understand User Roles](../organization/roles-permissions.md)** - Learn about Admin, Member, and Viewer roles
+3. **[Invite Your Team](../organization/team-members.md)** - Add colleagues to your organization
+4. **[Browse AI Models](../ai-models/model-discovery.md)** - Discover and sync models
 
 ---
 
 ## Need Help?
 
 - **Email Support**: support@keystoneagentic.com
-- **Documentation**: Browse our [User Guide](/docs/user-guide/dashboard)
+- **Documentation**: Browse our [User Guide](../user-guide/dashboard.md)
 - **Status Page**: status.keystoneagentic.com
 
 Welcome to KeystoneAgentic! 🎉
+
+[← Back to Main Documentation](../README.md)

@@ -1,5 +1,7 @@
 # Welcome to KeystoneAgentic
 
+[← Back to Main Documentation](../README.md)
+
 **KeystoneAgentic** is an AI-powered platform that lets you harness the power of multiple AI models, manage knowledge bases, and collaborate with your team—all in one place.
 
 ## What Can You Do?
@@ -163,17 +165,19 @@ KeystoneAgentic supports MCP, allowing advanced integrations (developer feature)
 
 Ready to get started? Here's what to do next:
 
-1. **[Create Your Account](/docs/getting-started/create-account)** - Sign up and start your trial
-2. **[First Steps](/docs/getting-started/first-steps)** - Set up your organization and invite your team
-3. **[Discover Models](/docs/ai-models/model-discovery)** - Browse and sync AI models
-4. **[Upload Documents](/docs/knowledge-base/document-management)** - Build your knowledge base
+1. **[Create Your Account](create-account.md)** - Sign up and start your trial
+2. **[First Steps](first-steps.md)** - Set up your organization and invite your team
+3. **[Discover Models](../ai-models/model-discovery.md)** - Browse and sync AI models
+4. **[Upload Documents](../knowledge-base/document-management.md)** - Build your knowledge base
 
 ---
 
 ## Need Help?
 
-- **Documentation**: Browse our comprehensive guides
+- **Documentation**: Browse our comprehensive guides in the [Main Documentation](../README.md)
 - **Support**: Contact support@keystoneagentic.com
 - **Status**: Check system status at status.keystoneagentic.com
+
+[← Back to Main Documentation](../README.md)
 
 Welcome aboard! Let's build something amazing together. 🚀
