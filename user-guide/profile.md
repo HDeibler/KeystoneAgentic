@@ -1,5 +1,7 @@
 # Your Profile
 
+[← Back to Main Documentation](../README.md)
+
 Your profile contains your personal information, preferences, and account settings. This guide shows you how to view and update your profile.
 
 ---
@@ -80,7 +82,7 @@ No. Only **Admins** can change user roles.
 **What if you need more permissions?**
 Contact an Admin in your organization to request a role change.
 
-[Learn more about roles and permissions](/docs/organization/roles-permissions)
+[Learn more about roles and permissions](../organization/roles-permissions.md)
 
 ---
 
@@ -303,9 +305,9 @@ Make sure you've:
 
 Now that your profile is set up:
 
-- **[Dashboard Guide](/docs/user-guide/dashboard)** - Navigate the interface
-- **[Team Members](/docs/organization/team-members)** - See who's in your organization
-- **[User Roles](/docs/organization/roles-permissions)** - Understand what you can do
+- **[Dashboard Guide](dashboard.md)** - Navigate the interface
+- **[Team Members](../organization/team-members.md)** - See who's in your organization
+- **[User Roles](../organization/roles-permissions.md)** - Understand what you can do
 - **[Account Security Best Practices (Coming Soon)** (Coming Soon)
 
 ---
@@ -317,3 +319,5 @@ Now that your profile is set up:
 - **Terms of Service**: keystoneagentic.com/terms
 
 Your profile, your way. 🎨
+
+[← Back to Main Documentation](../README.md)

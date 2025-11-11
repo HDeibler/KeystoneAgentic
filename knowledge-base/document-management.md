@@ -1,5 +1,7 @@
 # Document Management
 
+[← Back to Main Documentation](../README.md)
+
 Build a knowledge base by uploading documents that AI can reference in conversations. This guide shows you how to upload, organize, and manage your documents.
 
 ---
@@ -14,7 +16,7 @@ A **knowledge base** is a collection of documents that AI models can search and 
 - Keeps responses relevant to your organization
 - No need to include full context in every prompt
 
-**How it works**: See [RAG Overview](/docs/knowledge-base/rag-overview)
+**How it works**: See [RAG Overview](rag-overview.md)
 
 ---
 
@@ -67,7 +69,7 @@ KeystoneAgentic supports common document formats:
 - **Members**: Yes
 - **Viewers**: No
 
-[See role permissions](/docs/organization/roles-permissions)
+[See role permissions](../organization/roles-permissions.md)
 
 ---
 
@@ -287,7 +289,7 @@ Click column headers to sort by:
 - Zero Data Retention: AI providers don't store your document content
 - Immediate discard after response generation
 
-[Learn more about ZDR](/docs/security/zero-data-retention)
+[Learn more about ZDR](../security/zero-data-retention.md)
 
 ---
 
@@ -394,10 +396,12 @@ Future features for managing multiple documents:
 
 ## Next Steps
 
-- **[RAG Overview](/docs/knowledge-base/rag-overview)** - Understand how AI uses your documents
+- **[RAG Overview](rag-overview.md)** - Understand how AI uses your documents
 - **[Using RAG in Conversations (Coming Soon)** (Coming Soon) - Enable document search in chats
 - **[Analytics (Coming Soon)** - Track document usage
 
 ---
 
 **Build your knowledge base and let AI become an expert in your domain.**
+
+[← Back to Main Documentation](../README.md)

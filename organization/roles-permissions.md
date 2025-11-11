@@ -1,5 +1,7 @@
 # User Roles & Permissions
 
+[← Back to Main Documentation](../README.md)
+
 KeystoneAgentic uses role-based access control (RBAC) to manage team member access. This guide explains the three roles and their exact permissions.
 
 ---
@@ -619,9 +621,9 @@ Use the organization switcher (click org name in navigation) to move between the
 
 ## Next Steps
 
-- **[Team Members Guide](/docs/organization/team-members)** - Invite and manage your team
-- **[Quick Start](/docs/getting-started/quickstart)** - Get started with KeystoneAgentic
-- **[Dashboard Overview](/docs/user-guide/dashboard)** - Navigate the platform
+- **[Team Members Guide](team-members.md)** - Invite and manage your team
+- **[Quick Start](../getting-started/quickstart.md)** - Get started with KeystoneAgentic
+- **[Dashboard Overview](../user-guide/dashboard.md)** - Navigate the platform
 
 ---
 
@@ -639,3 +641,5 @@ Email support immediately: support@keystoneagentic.com
 ---
 
 **Clear roles enable secure, effective collaboration.**
+
+[← Back to Main Documentation](../README.md)
